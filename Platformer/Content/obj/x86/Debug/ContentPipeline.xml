@@ -459,7 +459,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\blit1703\Documents\Visual Studio 2010\Projects\Platformer\Platformer\Platformer\bin\x86\Debug\Content\Sprites\Player\riku_idle.xnb</Output>
-      <Time>2015-05-20T12:54:55.1001207-06:00</Time>
+      <Time>2015-05-20T13:38:51.0976874-06:00</Time>
     </Item>
     <Item>
       <Source>Sprites\Player\riku_jump.png</Source>
@@ -477,7 +477,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\blit1703\Documents\Visual Studio 2010\Projects\Platformer\Platformer\Platformer\bin\x86\Debug\Content\Sprites\Player\riku_run.xnb</Output>
-      <Time>2015-05-20T12:55:24.5500654-06:00</Time>
+      <Time>2015-05-21T13:33:40.8112522-06:00</Time>
     </Item>
     <Item>
       <Source>Backgrounds\Ipad-Retina-Space-Background-Wallpaper.jpg</Source>
