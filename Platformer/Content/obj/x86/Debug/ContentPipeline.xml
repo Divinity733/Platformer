@@ -423,7 +423,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\blit1703\Documents\Visual Studio 2010\Projects\Platformer\Platformer\Platformer\bin\x86\Debug\Content\Sprites\MonsterA\unversed_idle.xnb</Output>
-      <Time>2015-05-20T12:09:20.4007641-06:00</Time>
+      <Time>2015-05-22T13:03:39.9821352-06:00</Time>
     </Item>
     <Item>
       <Source>Sprites\MonsterA\unversed_run.png</Source>
@@ -432,7 +432,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\blit1703\Documents\Visual Studio 2010\Projects\Platformer\Platformer\Platformer\bin\x86\Debug\Content\Sprites\MonsterA\unversed_run.xnb</Output>
-      <Time>2015-05-20T12:09:34.1390523-06:00</Time>
+      <Time>2015-05-22T13:04:35.0971352-06:00</Time>
     </Item>
     <Item>
       <Source>Sprites\MonsterB\supermetroid_metroids_sheet.png</Source>
@@ -459,7 +459,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\blit1703\Documents\Visual Studio 2010\Projects\Platformer\Platformer\Platformer\bin\x86\Debug\Content\Sprites\Player\riku_idle.xnb</Output>
-      <Time>2015-05-20T13:38:51.0976874-06:00</Time>
+      <Time>2015-05-22T12:55:38.1885085-06:00</Time>
     </Item>
     <Item>
       <Source>Sprites\Player\riku_jump.png</Source>
@@ -477,7 +477,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\blit1703\Documents\Visual Studio 2010\Projects\Platformer\Platformer\Platformer\bin\x86\Debug\Content\Sprites\Player\riku_run.xnb</Output>
-      <Time>2015-05-21T13:33:40.8112522-06:00</Time>
+      <Time>2015-05-22T12:52:27.4623677-06:00</Time>
     </Item>
     <Item>
       <Source>Backgrounds\Ipad-Retina-Space-Background-Wallpaper.jpg</Source>
@@ -495,7 +495,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\blit1703\Documents\Visual Studio 2010\Projects\Platformer\Platformer\Platformer\bin\x86\Debug\Content\Sprites\MonsterB\unversed_run.xnb</Output>
-      <Time>2015-05-20T13:11:58.7164663-06:00</Time>
+      <Time>2015-05-22T13:04:53.1764054-06:00</Time>
     </Item>
     <Item>
       <Source>Sprites\MonsterB\unversed_idle.png</Source>
@@ -504,7 +504,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\blit1703\Documents\Visual Studio 2010\Projects\Platformer\Platformer\Platformer\bin\x86\Debug\Content\Sprites\MonsterB\unversed_idle.xnb</Output>
-      <Time>2015-05-20T13:11:58.7464693-06:00</Time>
+      <Time>2015-05-22T13:04:53.1764054-06:00</Time>
     </Item>
     <Item>
       <Source>Sprites\MonsterC\unversed_run.png</Source>
@@ -513,7 +513,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\blit1703\Documents\Visual Studio 2010\Projects\Platformer\Platformer\Platformer\bin\x86\Debug\Content\Sprites\MonsterC\unversed_run.xnb</Output>
-      <Time>2015-05-20T13:12:00.4726419-06:00</Time>
+      <Time>2015-05-22T13:04:55.2747826-06:00</Time>
     </Item>
     <Item>
       <Source>Sprites\MonsterC\unversed_idle.png</Source>
@@ -522,7 +522,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\blit1703\Documents\Visual Studio 2010\Projects\Platformer\Platformer\Platformer\bin\x86\Debug\Content\Sprites\MonsterC\unversed_idle.xnb</Output>
-      <Time>2015-05-20T13:12:00.4756422-06:00</Time>
+      <Time>2015-05-22T13:04:55.2747826-06:00</Time>
     </Item>
     <Item>
       <Source>Sprites\MonsterD\unversed_run.png</Source>
@@ -531,7 +531,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\blit1703\Documents\Visual Studio 2010\Projects\Platformer\Platformer\Platformer\bin\x86\Debug\Content\Sprites\MonsterD\unversed_run.xnb</Output>
-      <Time>2015-05-20T13:12:02.3598306-06:00</Time>
+      <Time>2015-05-22T13:04:57.3663564-06:00</Time>
     </Item>
     <Item>
       <Source>Sprites\MonsterD\unversed_idle.png</Source>
@@ -540,7 +540,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\blit1703\Documents\Visual Studio 2010\Projects\Platformer\Platformer\Platformer\bin\x86\Debug\Content\Sprites\MonsterD\unversed_idle.xnb</Output>
-      <Time>2015-05-20T13:12:02.3628309-06:00</Time>
+      <Time>2015-05-22T13:04:57.3663564-06:00</Time>
     </Item>
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>
