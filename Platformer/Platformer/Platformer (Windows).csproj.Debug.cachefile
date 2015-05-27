@@ -22,7 +22,6 @@ Content\Tiles\BlockA6.xnb
 Content\Tiles\BlockB0.xnb
 Content\Tiles\BlockB1.xnb
 Content\Tiles\Platform.xnb
-Content\Backgrounds\Layer0_0.xnb
 Content\Backgrounds\Layer0_1.xnb
 Content\Backgrounds\Layer0_2.xnb
 Content\Backgrounds\Layer1_0.xnb
@@ -51,13 +50,13 @@ Content\Sprites\Player\riku_die.xnb
 Content\Sprites\Player\riku_idle.xnb
 Content\Sprites\Player\riku_jump.xnb
 Content\Sprites\Player\riku_run.xnb
-Content\Backgrounds\Ipad-Retina-Space-Background-Wallpaper.xnb
 Content\Sprites\MonsterB\unversed_run.xnb
 Content\Sprites\MonsterB\unversed_idle.xnb
 Content\Sprites\MonsterC\unversed_run.xnb
 Content\Sprites\MonsterC\unversed_idle.xnb
 Content\Sprites\MonsterD\unversed_run.xnb
 Content\Sprites\MonsterD\unversed_idle.xnb
+Content\Backgrounds\Layer0_0.xnb
 Content\Sounds\Music.wma
 Content\Levels\0.txt
 Content\Levels\2.txt

@@ -218,22 +218,13 @@
       <Time>2015-05-18T12:24:36.5972734-06:00</Time>
     </Item>
     <Item>
-      <Source>Backgrounds\Layer0_0.png</Source>
-      <Name>Backgrounds\Layer0_0</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-      <Options>None</Options>
-      <Output>C:\Users\blit1703\Documents\Visual Studio 2010\Projects\Platformer\Platformer\Platformer\bin\x86\Debug\Content\Backgrounds\Layer0_0.xnb</Output>
-      <Time>2015-05-18T12:24:35.2461423-06:00</Time>
-    </Item>
-    <Item>
       <Source>Backgrounds\Layer0_1.png</Source>
       <Name>Backgrounds\Layer0_1</Name>
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\blit1703\Documents\Visual Studio 2010\Projects\Platformer\Platformer\Platformer\bin\x86\Debug\Content\Backgrounds\Layer0_1.xnb</Output>
-      <Time>2015-05-18T12:24:35.2751452-06:00</Time>
+      <Time>2015-05-27T13:17:42.362986-06:00</Time>
     </Item>
     <Item>
       <Source>Backgrounds\Layer0_2.png</Source>
@@ -242,7 +233,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\blit1703\Documents\Visual Studio 2010\Projects\Platformer\Platformer\Platformer\bin\x86\Debug\Content\Backgrounds\Layer0_2.xnb</Output>
-      <Time>2015-05-18T12:24:35.3211482-06:00</Time>
+      <Time>2015-05-27T13:17:42.362986-06:00</Time>
     </Item>
     <Item>
       <Source>Backgrounds\Layer1_0.png</Source>
@@ -251,7 +242,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\blit1703\Documents\Visual Studio 2010\Projects\Platformer\Platformer\Platformer\bin\x86\Debug\Content\Backgrounds\Layer1_0.xnb</Output>
-      <Time>2015-05-18T12:24:35.3521513-06:00</Time>
+      <Time>2015-05-27T13:12:58.8701339-06:00</Time>
     </Item>
     <Item>
       <Source>Backgrounds\Layer1_1.png</Source>
@@ -260,7 +251,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\blit1703\Documents\Visual Studio 2010\Projects\Platformer\Platformer\Platformer\bin\x86\Debug\Content\Backgrounds\Layer1_1.xnb</Output>
-      <Time>2015-05-18T12:24:35.4151576-06:00</Time>
+      <Time>2015-05-27T13:13:07.0920709-06:00</Time>
     </Item>
     <Item>
       <Source>Backgrounds\Layer1_2.png</Source>
@@ -269,7 +260,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\blit1703\Documents\Visual Studio 2010\Projects\Platformer\Platformer\Platformer\bin\x86\Debug\Content\Backgrounds\Layer1_2.xnb</Output>
-      <Time>2015-05-18T12:24:35.4601621-06:00</Time>
+      <Time>2015-05-27T13:13:15.6322078-06:00</Time>
     </Item>
     <Item>
       <Source>Backgrounds\Layer2_0.png</Source>
@@ -278,7 +269,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\blit1703\Documents\Visual Studio 2010\Projects\Platformer\Platformer\Platformer\bin\x86\Debug\Content\Backgrounds\Layer2_0.xnb</Output>
-      <Time>2015-05-18T12:24:35.4781639-06:00</Time>
+      <Time>2015-05-27T13:13:32.5158817-06:00</Time>
     </Item>
     <Item>
       <Source>Backgrounds\Layer2_1.png</Source>
@@ -287,7 +278,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\blit1703\Documents\Visual Studio 2010\Projects\Platformer\Platformer\Platformer\bin\x86\Debug\Content\Backgrounds\Layer2_1.xnb</Output>
-      <Time>2015-05-18T12:24:35.4961657-06:00</Time>
+      <Time>2015-05-27T13:13:39.1012733-06:00</Time>
     </Item>
     <Item>
       <Source>Backgrounds\Layer2_2.png</Source>
@@ -296,7 +287,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\blit1703\Documents\Visual Studio 2010\Projects\Platformer\Platformer\Platformer\bin\x86\Debug\Content\Backgrounds\Layer2_2.xnb</Output>
-      <Time>2015-05-18T12:24:35.5151676-06:00</Time>
+      <Time>2015-05-27T13:13:49.0599642-06:00</Time>
     </Item>
     <Item>
       <Source>Overlays\you_died.png</Source>
@@ -423,7 +414,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\blit1703\Documents\Visual Studio 2010\Projects\Platformer\Platformer\Platformer\bin\x86\Debug\Content\Sprites\MonsterA\unversed_idle.xnb</Output>
-      <Time>2015-05-22T13:03:39.9821352-06:00</Time>
+      <Time>2015-05-27T13:03:56.4675231-06:00</Time>
     </Item>
     <Item>
       <Source>Sprites\MonsterA\unversed_run.png</Source>
@@ -432,7 +423,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\blit1703\Documents\Visual Studio 2010\Projects\Platformer\Platformer\Platformer\bin\x86\Debug\Content\Sprites\MonsterA\unversed_run.xnb</Output>
-      <Time>2015-05-22T13:04:35.0971352-06:00</Time>
+      <Time>2015-05-27T13:04:36.3875231-06:00</Time>
     </Item>
     <Item>
       <Source>Sprites\MonsterB\supermetroid_metroids_sheet.png</Source>
@@ -480,22 +471,13 @@
       <Time>2015-05-22T12:52:27.4623677-06:00</Time>
     </Item>
     <Item>
-      <Source>Backgrounds\Ipad-Retina-Space-Background-Wallpaper.jpg</Source>
-      <Name>Backgrounds\Ipad-Retina-Space-Background-Wallpaper</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-      <Options>None</Options>
-      <Output>C:\Users\blit1703\Documents\Visual Studio 2010\Projects\Platformer\Platformer\Platformer\bin\x86\Debug\Content\Backgrounds\Ipad-Retina-Space-Background-Wallpaper.xnb</Output>
-      <Time>2015-05-20T12:14:27.5922953-06:00</Time>
-    </Item>
-    <Item>
       <Source>Sprites\MonsterB\unversed_run.png</Source>
       <Name>Sprites\MonsterB\unversed_run</Name>
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\blit1703\Documents\Visual Studio 2010\Projects\Platformer\Platformer\Platformer\bin\x86\Debug\Content\Sprites\MonsterB\unversed_run.xnb</Output>
-      <Time>2015-05-22T13:04:53.1764054-06:00</Time>
+      <Time>2015-05-27T13:04:45.6800489-06:00</Time>
     </Item>
     <Item>
       <Source>Sprites\MonsterB\unversed_idle.png</Source>
@@ -504,7 +486,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\blit1703\Documents\Visual Studio 2010\Projects\Platformer\Platformer\Platformer\bin\x86\Debug\Content\Sprites\MonsterB\unversed_idle.xnb</Output>
-      <Time>2015-05-22T13:04:53.1764054-06:00</Time>
+      <Time>2015-05-27T13:04:45.2120549-06:00</Time>
     </Item>
     <Item>
       <Source>Sprites\MonsterC\unversed_run.png</Source>
@@ -513,7 +495,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\blit1703\Documents\Visual Studio 2010\Projects\Platformer\Platformer\Platformer\bin\x86\Debug\Content\Sprites\MonsterC\unversed_run.xnb</Output>
-      <Time>2015-05-22T13:04:55.2747826-06:00</Time>
+      <Time>2015-05-27T13:04:47.9798233-06:00</Time>
     </Item>
     <Item>
       <Source>Sprites\MonsterC\unversed_idle.png</Source>
@@ -522,7 +504,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\blit1703\Documents\Visual Studio 2010\Projects\Platformer\Platformer\Platformer\bin\x86\Debug\Content\Sprites\MonsterC\unversed_idle.xnb</Output>
-      <Time>2015-05-22T13:04:55.2747826-06:00</Time>
+      <Time>2015-05-27T13:04:47.7458263-06:00</Time>
     </Item>
     <Item>
       <Source>Sprites\MonsterD\unversed_run.png</Source>
@@ -531,7 +513,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\blit1703\Documents\Visual Studio 2010\Projects\Platformer\Platformer\Platformer\bin\x86\Debug\Content\Sprites\MonsterD\unversed_run.xnb</Output>
-      <Time>2015-05-22T13:04:57.3663564-06:00</Time>
+      <Time>2015-05-27T13:04:50.9759849-06:00</Time>
     </Item>
     <Item>
       <Source>Sprites\MonsterD\unversed_idle.png</Source>
@@ -540,7 +522,16 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\blit1703\Documents\Visual Studio 2010\Projects\Platformer\Platformer\Platformer\bin\x86\Debug\Content\Sprites\MonsterD\unversed_idle.xnb</Output>
-      <Time>2015-05-22T13:04:57.3663564-06:00</Time>
+      <Time>2015-05-27T13:04:50.7887873-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\Layer0_0.png</Source>
+      <Name>Backgrounds\Layer0_0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\blit1703\Documents\Visual Studio 2010\Projects\Platformer\Platformer\Platformer\bin\x86\Debug\Content\Backgrounds\Layer0_0.xnb</Output>
+      <Time>2015-05-27T13:17:42.362986-06:00</Time>
     </Item>
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>

@@ -83,6 +83,7 @@ namespace Platformer.Model
         private const float MoveStickScale = 1.0f;
         private const float AccelerometerScale = 1.5f;
         private const Buttons JumpButton = Buttons.A;
+        private const Buttons DoubleJumpButton = Buttons.B;
 
         /// <summary>
         /// Gets whether or not the player's feet are on the ground.
@@ -249,6 +250,7 @@ namespace Platformer.Model
             // Check if the player wants to jump.
             isJumping =
                 gamePadState.IsButtonDown(JumpButton) ||
+                gamePadState.IsButtonDown(DoubleJumpButton) ||
                 keyboardState.IsKeyDown(Keys.Space) ||
                 keyboardState.IsKeyDown(Keys.Up) ||
                 keyboardState.IsKeyDown(Keys.W) ||

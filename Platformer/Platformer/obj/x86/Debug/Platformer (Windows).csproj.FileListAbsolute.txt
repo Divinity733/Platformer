@@ -22,7 +22,6 @@ C:\Users\blit1703\Documents\Visual Studio 2010\Projects\Platformer\Platformer\Pl
 C:\Users\blit1703\Documents\Visual Studio 2010\Projects\Platformer\Platformer\Platformer\bin\x86\Debug\Content\Tiles\BlockB0.xnb
 C:\Users\blit1703\Documents\Visual Studio 2010\Projects\Platformer\Platformer\Platformer\bin\x86\Debug\Content\Tiles\BlockB1.xnb
 C:\Users\blit1703\Documents\Visual Studio 2010\Projects\Platformer\Platformer\Platformer\bin\x86\Debug\Content\Tiles\Platform.xnb
-C:\Users\blit1703\Documents\Visual Studio 2010\Projects\Platformer\Platformer\Platformer\bin\x86\Debug\Content\Backgrounds\Layer0_0.xnb
 C:\Users\blit1703\Documents\Visual Studio 2010\Projects\Platformer\Platformer\Platformer\bin\x86\Debug\Content\Backgrounds\Layer0_1.xnb
 C:\Users\blit1703\Documents\Visual Studio 2010\Projects\Platformer\Platformer\Platformer\bin\x86\Debug\Content\Backgrounds\Layer0_2.xnb
 C:\Users\blit1703\Documents\Visual Studio 2010\Projects\Platformer\Platformer\Platformer\bin\x86\Debug\Content\Backgrounds\Layer1_0.xnb
@@ -61,10 +60,10 @@ C:\Users\blit1703\Documents\Visual Studio 2010\Projects\Platformer\Platformer\Pl
 C:\Users\blit1703\Documents\Visual Studio 2010\Projects\Platformer\Platformer\Platformer\bin\x86\Debug\Content\Sprites\Player\riku_idle.xnb
 C:\Users\blit1703\Documents\Visual Studio 2010\Projects\Platformer\Platformer\Platformer\bin\x86\Debug\Content\Sprites\Player\riku_jump.xnb
 C:\Users\blit1703\Documents\Visual Studio 2010\Projects\Platformer\Platformer\Platformer\bin\x86\Debug\Content\Sprites\Player\riku_run.xnb
-C:\Users\blit1703\Documents\Visual Studio 2010\Projects\Platformer\Platformer\Platformer\bin\x86\Debug\Content\Backgrounds\Ipad-Retina-Space-Background-Wallpaper.xnb
 C:\Users\blit1703\Documents\Visual Studio 2010\Projects\Platformer\Platformer\Platformer\bin\x86\Debug\Content\Sprites\MonsterB\unversed_run.xnb
 C:\Users\blit1703\Documents\Visual Studio 2010\Projects\Platformer\Platformer\Platformer\bin\x86\Debug\Content\Sprites\MonsterB\unversed_idle.xnb
 C:\Users\blit1703\Documents\Visual Studio 2010\Projects\Platformer\Platformer\Platformer\bin\x86\Debug\Content\Sprites\MonsterC\unversed_run.xnb
 C:\Users\blit1703\Documents\Visual Studio 2010\Projects\Platformer\Platformer\Platformer\bin\x86\Debug\Content\Sprites\MonsterC\unversed_idle.xnb
 C:\Users\blit1703\Documents\Visual Studio 2010\Projects\Platformer\Platformer\Platformer\bin\x86\Debug\Content\Sprites\MonsterD\unversed_run.xnb
 C:\Users\blit1703\Documents\Visual Studio 2010\Projects\Platformer\Platformer\Platformer\bin\x86\Debug\Content\Sprites\MonsterD\unversed_idle.xnb
+C:\Users\blit1703\Documents\Visual Studio 2010\Projects\Platformer\Platformer\Platformer\bin\x86\Debug\Content\Backgrounds\Layer0_0.xnb

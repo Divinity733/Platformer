@@ -113,7 +113,6 @@ namespace Platformer.Controller
                 int segmentIndex = levelIndex;
                 layers[i] = Content.Load<Texture2D>("Backgrounds/Layer" + i + "_" + segmentIndex);
             }
-            //mainBackground = Content.Load<Texture2D>("Images/Ipad-Retina-Space-Background-Wallpaper");
 
             // Load sounds.
             exitReachedSound = Content.Load<SoundEffect>("Sounds/ExitReached");
