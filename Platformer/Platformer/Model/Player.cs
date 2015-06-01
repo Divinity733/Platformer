@@ -77,13 +77,13 @@ namespace Platformer.Model
         private const float JumpLaunchVelocity = -3500.0f;
         private const float GravityAcceleration = 3400.0f;
         private const float MaxFallSpeed = 550.0f;
-        private const float JumpControlPower = 0.14f; 
+        private const float JumpControlPower = 0.14f;
+        private int numberOfJumps = 0;
 
         // Input configuration
         private const float MoveStickScale = 1.0f;
         private const float AccelerometerScale = 1.5f;
         private const Buttons JumpButton = Buttons.A;
-        private const Buttons DoubleJumpButton = Buttons.B;
 
         /// <summary>
         /// Gets whether or not the player's feet are on the ground.
@@ -203,6 +203,8 @@ namespace Platformer.Model
             // Clear input.
             movement = 0.0f;
             isJumping = false;
+            if (isOnGround)
+                numberOfJumps = 0;
         }
 
         /// <summary>
@@ -250,7 +252,6 @@ namespace Platformer.Model
             // Check if the player wants to jump.
             isJumping =
                 gamePadState.IsButtonDown(JumpButton) ||
-                gamePadState.IsButtonDown(DoubleJumpButton) ||
                 keyboardState.IsKeyDown(Keys.Space) ||
                 keyboardState.IsKeyDown(Keys.Up) ||
                 keyboardState.IsKeyDown(Keys.W) ||
@@ -338,7 +339,17 @@ namespace Platformer.Model
                 else
                 {
                     // Reached the apex of the jump
-                    jumpTime = 0.0f;
+                    if (velocityY > -MaxFallSpeed * 0.5f && !wasJumping && numberOfJumps < 1)
+                    {
+                        velocityY =
+                            JumpLaunchVelocity * (1.0f - (float)Math.Pow(jumpTime / MaxJumpTime, JumpControlPower));
+                        jumpTime += (float)gameTime.ElapsedGameTime.TotalSeconds;
+                        numberOfJumps++;
+                    }
+                    else
+                    {
+                        jumpTime = 0.0f;
+                    }
                 }
             }
             else
